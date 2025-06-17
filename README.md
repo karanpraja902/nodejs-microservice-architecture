@@ -1,5 +1,14 @@
 # 🛒 NodeJS Microservices: Order & Inventory System
 
+![Repository Size](https://img.shields.io/github/repo-size/karanpraja902/nodejs-microservice-architecture)
+![Last Commit](https://img.shields.io/github/last-commit/karanpraja902/nodejs-microservice-architecture)
+![Issues](https://img.shields.io/github/issues-raw/karanpraja902/nodejs-microservice-architecture)
+![Forks](https://img.shields.io/github/forks/karanpraja902/nodejs-microservice-architecture)
+![Stars](https://img.shields.io/github/stars/karanpraja902/nodejs-microservice-architecture)
+
+A modular, production-ready microservices system inspired by e-commerce architectures, built with TypeScript, Node.js, NestJS, ExpressJS, PostgreSQL, MongoDB, Docker, and RabbitMQ/NATS for event-driven communication.
+
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -7,8 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-A modular, production-ready microservices system inspired by e-commerce architectures, built with TypeScript, Node.js, NestJS, ExpressJS, PostgreSQL, MongoDB, Docker, and RabbitMQ/NATS for event-driven communication.
 
 ---
 
