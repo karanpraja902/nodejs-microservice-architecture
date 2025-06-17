@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-microservice-architecture",
+  "version": "1.0.0",
+  "description": "![Repository Size](https://img.shields.io/github/repo-size/karanpraja902/nodejs-microservice-architecture) ![Last Commit](https://img.shields.io/github/last-commit/karanpraja902/nodejs-microservice-architecture) ![Issues](https://img.shields.io/github/issues-raw/karanpraja902/nodejs-microservice-architecture) ![Forks](https://img.shields.io/github/forks/karanpraja902/nodejs-microservice-architecture) ![Stars](https://img.shields.io/github/stars/karanpraja902/nodejs-microservice-architecture)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanpraja902/nodejs-microservice-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/karanpraja902/nodejs-microservice-architecture/issues"
+  },
+  "homepage": "https://github.com/karanpraja902/nodejs-microservice-architecture#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  }
+}
