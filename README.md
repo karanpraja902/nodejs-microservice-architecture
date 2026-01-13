@@ -245,3 +245,4 @@ Made with ❤️ for scalable, real-world systems.
 ## 🌟 Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/karanpraja902/nodejs-microservice-architecture.svg?variant=adaptive)](https://starchart.cc/karanpraja902/nodejs-microservice-architecture)
+
