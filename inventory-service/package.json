@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "* Listen to `order_created` * Decrease stock * Reject order if stock not enough",
   "main": "index.js",
+  "author": "Karan Prajapat <karanpraja902@gmail.com>",
   "type": "module",
   "scripts": {
     "start": "node index.js"

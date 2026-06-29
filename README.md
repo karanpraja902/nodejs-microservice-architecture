@@ -124,7 +124,6 @@ nodejs-microservice-architecture/
 ├── inventory-service/        # Inventory microservice
 ├── notification-service/     # Notification microservice
 ├── docker-compose.yml        # Infrastructure orchestration
-├── docs/                     # Architecture diagrams, docs
 ├── README.md
 ```
 
@@ -240,7 +239,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Made with ❤️ for scalable, real-world systems.
+Made for scalable, real-world systems.
 
 ## 🌟 Stargazers over time
 
